@@ -3,7 +3,15 @@
 
 - 🔭 I’m currently working on **C++ cheating software**
 
-<h3 align="left">Connect with me: Arial#0560</h3>
+- 🌱 I’m currently learning **HTML, CSS and x86 ARM**
+
+- 👯 I’m looking to collaborate on **C++ and WEB backend projects**
+
+- 📫 How to reach me **Arial#0560**
+
+- ⚡ Fun fact **I love snus**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
