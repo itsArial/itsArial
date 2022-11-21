@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love snus**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Arial#0560</h3>
 <p align="left">
 </p>
 
