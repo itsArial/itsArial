@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **C++ and WEB backend projects**
 
-- 📫 How to reach me **Arial#0560**
+- 📫 How to reach me **damamster**
 
 - ⚡ Fun fact **I love snus**
 
-<h3 align="left">Connect with me: Arial#0560</h3>
+<h3 align="left">Connect with me: damamster</h3>
 <p align="left">
 </p>
 
