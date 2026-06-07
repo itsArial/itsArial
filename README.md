@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C++ cheating software**
 
-- 🌱 I’m currently learning **HTML, CSS and x86 ARM**
+- 🌱 I’m currently learning **GO lang, React and x86 ARM**
 
 - 👯 I’m looking to collaborate on **C++ and WEB backend projects**
 
